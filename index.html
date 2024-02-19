@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style-reponsive.css">
     <title>Document</title>
 </head>
 <body>
@@ -12,7 +13,7 @@
         <div class="cover cover-left"></div>
         <div class="cover cover-right turn"></div>
         <div class="book">
-            <div class="book-page page-left">
+            <div class="book-page page-left" id="turn-0">
                 <div class="profile-page">
                     <img src="./root/z5162904135978_c3faed8a5ed50da7b6ecb1d5c8e52511.jpg" alt="">
                     <h1>Lê Đắc Tiến</h1>
@@ -32,6 +33,10 @@
                     <div class="btn-box">
                         <a class="btn contact-me">Contact Me</a>
                     </div>
+
+                    <span class="mobile nextprev-btn" data-page="turn-0">
+                        <i class='bx bx-chevron-right'></i>
+                    </span>
                 </div>
             </div>
 
@@ -66,6 +71,10 @@
 
                     </div>
                     <span class="number-page">1</span>
+
+                    <span class="mobile nextprev-btn back" data-page="turn-2">
+                        <i class='bx bx-chevron-left'></i>
+                    </span>
 
                     <span class="nextprev-btn" data-page="turn-1">
                         <i class='bx bx-chevron-right'></i>
@@ -123,6 +132,13 @@
                             <div class="content">
                                 <span><i class='bx bxl-postgresql'></i>Postgresql</span>
                                 <span><i class='bx bxs-server'></i>MySQL</span>
+                            </div>
+                        </div>
+
+			            <div class="skills-content">
+                            <h3>#</h3>
+                            <div class="content">
+                                <span><i class='bx bxl-c-plus-plus'></i>C++</span>
                             </div>
                         </div>
                     </div>
@@ -233,6 +249,9 @@
             </div>
 
         </div>
+    </div>
+    <div class="Warring">
+        
     </div>
     <script src="script.js"></script>
 </body>

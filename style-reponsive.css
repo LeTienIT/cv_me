@@ -1,0 +1,146 @@
+
+@media(max-width: 1160px){
+    .wrapper{
+        width: 55rem;
+    }
+    .profile-page img{
+        max-width: 160px;
+    }
+    .profile-page h1{
+        font-size: 2.6rem;
+    }
+    .profile-page h3{
+        font-size: 1.4rem;
+    }
+    .profile-page .social-media{
+        margin: .6rem 0 .8rem;
+    }
+    .profile-page .social-media a{
+        width: 2.2rem;
+        height: 2.2rem;
+    }
+
+    .workeduc-box .workeduc-content h3{
+        font-size: 1.1rem;
+    }
+    .workeduc-box .workeduc-content p{
+        font-size: .85rem;
+    }
+
+    .skills-box{
+        gap: 1rem;
+    }
+    .skills-content h3{
+        font-size: 1.1rem;
+    }
+    .skills-content .content{
+        gap: .6rem;
+    }
+    .skills-content .content span{
+        width: 5.6rem;
+        height: 4rem;
+        font-size: .9rem;
+    }
+    .skills-content .content span i{
+        font-size: 2rem;
+        color: var(--main-color);
+    }
+
+    .portfolio-box .img-box{
+        height: 12rem;
+    }
+    .portfolio-box .img-box:hover img{
+        transform: scale(1.1);
+    }
+    .portfolio-box .info-box{
+        margin: 1rem 0 1.5rem;
+    }
+    .portfolio-box .info-box .info-title h3{
+        font-size: 1.1rem;
+    }
+    .portfolio-box .info-box .info-title a i{
+        margin-left: .2rem;
+    }
+    .portfolio-box .info-box p:nth-of-type(1){
+        font-weight: 500;
+    }
+}
+@media (max-width: 915px) {
+    body{
+        perspective: 0;
+    }
+    .cover{
+        display: none;
+    }
+    .wrapper{
+        width: 41rem;
+        height: auto;
+        animation: none;
+    }
+    .book{
+        position: relative;
+        width: 100%;
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: 16px;
+    }
+    .book .book-page{
+        width: 100%;
+        position: relative;
+        background-color: red;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+    .book-page.page-right{
+        transform-origin: center;
+    }
+    .book-page .page-front,
+    .book-page .page-back{
+        position: relative;
+    }
+    .book-page .page-back{
+        position: absolute;
+    }
+
+    /* .book-page.page-left{
+        z-index: 10;
+        position: absolute;
+    }
+    .book-page.page-right.one{
+        z-index: 9;
+    }
+    .book-page.page-right.two{
+        z-index: 8;
+    }
+    .book-page.page-right.three{
+        z-index: 7;
+    }
+    .book-page.page-left.turn,
+    .book-page.page-right.turn{
+        animation: next_mobile 3s forwards;
+    }
+    @keyframes next_mobile {
+        0%{
+            transform: translateX(0) translateY(0);
+        }
+        40%{
+            transform: translateX(-90%) translateY(-20%);
+        }
+        70%{
+            transform: translateX(-20%) translateY(-10%);
+        }
+        100%{
+            transform: translateX(0) translateY(0);
+        }
+    }
+    .mobile.nextprev-btn{
+        display: block;
+    } */
+}

@@ -25,7 +25,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 100vh;
+    /* min-height: 100vh; */
     background: var(--bg-color);
     color: var(--text-color);
     perspective: 1000px;
@@ -39,6 +39,8 @@ body{
     width: 66rem;
     height: 45rem;
     padding: 2rem;
+    margin-top: 30px;
+    margin-bottom: 15px;
     animation: rotateIn 3s forwards;
     /* transform: rotate3d(1, 0, 0, -5deg) rotate3d(0, 0, 1, -3deg) rotateX(16deg);  */
 }
@@ -49,7 +51,7 @@ body{
     }
     100% {
         opacity: 1;
-        transform: rotate3d(1, 0, 0, -6deg) rotate3d(0, 0, 1, -2deg) rotateX(16deg); 
+        transform: rotate3d(1, 0, 0, -6deg) rotate3d(0, 0, 1, -2deg) rotateX(16deg) translateY(-25px); 
     }
 }
 .cover{
@@ -304,6 +306,7 @@ body{
     font-size: 3rem;
     color: var(--main-color);
 }
+
 .portfolio-box .img-box{
     display: flex;
     width: 100%;
@@ -423,4 +426,7 @@ body{
 }
 .three{
     z-index: 1;
+}
+.mobile.nextprev-btn{
+    display: none;
 }

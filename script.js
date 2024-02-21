@@ -76,14 +76,14 @@ backProfileBtn.onclick = ()=>{
         } 
     }
     else{
-        delay_promise(100).then(function(){
+        delay_promise(1000).then(function(){
             if(pages[pages.length-1].classList.contains('turn')){
                 pages[pages.length-1].classList.remove('turn');
             }
-            delay_promise(200).then(function(){
+            delay_promise(1000).then(function(){
                 document.querySelector('.wrapper').scrollTo({
                     top: 0,
-                    behavior: 'smooth' // Cuộn trang mượt (nếu trình duyệt hỗ trợ)
+                    behavior: 'smooth'
                 });
             })
         });
@@ -136,7 +136,7 @@ wrapper.addEventListener('scroll', function() {
     {
         var testElement = document.getElementById('mobile_check');
         var elementRect = testElement.getBoundingClientRect();
-        var isVisible = elementRect.top <= window.innerHeight * (2/3);
+        var isVisible = elementRect.top <= window.innerHeight;
         // console.log( elementRect.top, window.innerHeight);
         if (isVisible) {
             check_show = true;

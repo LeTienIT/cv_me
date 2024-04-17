@@ -1,0 +1,139 @@
+{
+    "translation":{
+        "1":{
+            "vn":"Chào, tôi tên Lê Đắc Tiến, một lập trình viên về web. Tôi yêu thích các giao diện bắt mắt và các thuật toán logic. Tôi thích những điều mới mẻ và luôn tìm kiếm chúng trong cả công việc lẫn cuộc sống. Lập trình với tôi là sở thích và cũng là công việc. Sở thích tạo niềm vui và công việc cần trách nhiệm",
+            "en":"Hello, my name is Le Dac Tien, a web programmer. I love the eye-catching interfaces and logical algorithms. I like new things and always look for them in both work and life. Programming for me is a hobby and also a job. Hobbies create joy and work requires responsibility."
+        },
+
+        "2":{
+            "vn":"Tham gia nghiên cứu khoa học sinh viên",
+            "en": "Undergraduate research team member"
+        },
+
+        "3":{
+            "vn":"Đề tài: xây dựng một trò chơi bằng c++. Phụ trách xử lý các sự kiện, xử lý logic, thuật toán, test đầu ra sản phẩm.",
+            "en":"Topic: \"Developing a game using C++.\" Responsibilities: Handling events, managing logic, algorithms, product output testing"
+        },
+
+        "4":{
+            "vn": "Chủ nhiệm đề tài nghiên cứu khoa học",
+            "en": "Student research project team leader"
+        },
+
+        "5":{
+            "vn":"Đề tài: Ứng dụng quản lý và đánh giá sự giống nhau cảu 2 đề tài nghiên cứu. Phụ trách: phân tích dự án, cơ sở dữ liệu, tìm hiệu các thuật toán, công nghệ, quản lý quá trình, tổng hợp.",
+            "en":"Topic: \"Software for managing and evaluating similarities between two research topics.\" Responsibilities: Analyze interface design, databases, algorithms and process management."
+        },
+
+        "6":{
+            "vn":"Thực tập sinh tại Công ty CPCN SAVIS",
+            "en":"INTERN at SAVIS TECHNOLOGY GROUP"
+        },
+
+        "7":{
+            "vn":"Trong thời gian thực tập đã học tập, nghiên cứu về Angular V17. Xây dựng hoàn chỉnh project với front-end được xây dựng bằng Angular, Back-end được xử lý qua các api xây dựng trên C#, CSDL quản lý trên Postgresql. Tìm hiểu và ứng dụng Kong gateway, Docker,..",
+            "en":"During the internship period, I studied and researched Angular V17. Front-end built using Angular, Back-end handled through APIs built on C#, and managed databases on PostgreSQL. Explored and applied Kong gateway, Docker, and other technologies."
+        },
+
+        "8":{
+            "vn":"Đại học Kinh tế Kỹ thuật Công nghiệp (UNETI)",
+            "en":"UNIVERSITY OF ECONOMICS - TECHNOLOGY FOR INDUSTRIES"
+        },
+
+        "9":{
+            "vn":"Dự kiến tốt nghiệp 2024.",
+            "en":"Expected graduation: 2024."
+        },
+
+        "10":{
+            "vn":"Điểm trung bình tích lũy: 8,58.(Hiện tại)",
+            "en":"Cumulative GPA: 8.58 (Current)."
+        },
+
+        "11":{
+            "vn":"Xếp loại học lực tích lũy: Xuất sắc.",
+            "en":"Cumulative academic ranking: Excellent (Current)."
+        },
+
+        "12":{
+            "vn":"Web Quản Lý Công Việc",
+            "en":"Work management website"
+        },
+
+        "13":{
+            "vn":"Front-end xây dựng bằng Angular v17, Back-end xây dựng bằng C#, CSDL quản lý trên Postgresql",
+            "en":"Front-end built with Angular v17, Back-end built with C#, database management on Postgresql"
+        },
+
+        "14":{
+            "vn":"Kong Gateway và Docker để triển khai api và đóng gói sản phẩm",
+            "en":"Kong Gateway and Docker for API deployment and product packaging"
+        },
+
+        "15":{
+            "vn":"Web countdown tết 2024 (js)",
+            "en":"2024 countdown website (js)"
+        },
+
+        "16":{
+            "vn":"Trang web countdown tết với các hiệu ứng pháo hoa, mưa lì xi và dữ liệu khi mở 1 lì xì.",
+            "en":"Countdown website with fireworks effects, lucky money rain and more...<a href=\"https://youtube.com/live/uk97X_wwTwU?feature=share\" style=\"text-decoration: underline; font-weight: 600;color:black;\">Click video</a>"
+        },
+
+        "17":{
+            "vn":"Web tin tức (full php)",
+            "en":"News website (full php)"
+        },
+
+        "18":{
+            "vn":"Trang web hiển thị thông tin 1 bài viết từ cơ sở dữ liệu. Nó tương tự như các trang web tin tức khác. Cho phép soạn thảo bài trên web, phân quyền quản lý các nội dung.",
+            "en":"The website displays information about 1 article from the database. It is similar to other news websites. Allows editing articles on the web, decentralizing content management."
+        },
+
+        "19":{
+            "vn":"Ứng dụng bán giày (Android java)",
+            "en":"Shoe selling application (Android java)"
+        },
+
+        "20":{
+            "vn":"Ứng dụng chạy trên di động hệ điều hành android.",
+            "en":"Application runs on the Android operating system."
+        },
+
+        "21":{
+            "vn":"Ứng dụng quản lý và đánh giá độ trùng lặp giữa các ĐTKH (C#)",
+            "en":"Application to manage and evaluate overlap between research topics (C#)"
+        },
+
+        "22":{
+            "vn":"Giúp cho việc tìm kiếm và đằng ký các ĐTKH nhanh gọn và đỡ trùng lặp hơn",
+            "en":"Helps search and register topics faster and less duplicated"
+        }
+        ,
+
+        "23":{
+            "vn":"Hey. <span>CV</span> này sẽ trông <span>đẹp hơn</span> nếu như bạn mở nó trên một <span>màn hình máy tính</span> đấy.",
+            "en":"Hey. <span>This CV </span> will look <span>better</span> if you open it <span>on a computer screen</span> ^_^."
+        },
+
+        "24":{
+            "vn":"Hey. Chờ một chút. Bạn có thấy <span>Số trang</span> và ký hiệu <span>></span> này không?",
+            "en":"Hey. Wait a minute. Do you see this <span>Page number</span> and the <span>></span> symbol?"
+        },
+
+        "25":{
+            "vn":"Có chứ",
+            "en":"Yesss"
+        },
+
+        "26":{
+            "vn":"Hãy ấn vào <img src=\"./root/c2.png\" alt=\"\"> để xem các nội dung phía sau của page đó. Hi vọng bạn không bỏ lỡ nó.",
+            "en":"Click <img src=\"./root/c2.png\" alt=\"\"> to see the content behind that page. Hope you don't miss it."
+        },
+
+        "27":{
+            "vn":"Hiểu liền",
+            "en":"Sure"
+        }
+    }
+}

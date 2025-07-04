@@ -21,8 +21,8 @@
         },
 
         "5":{
-            "vn":"Đề tài: Ứng dụng quản lý và đánh giá sự giống nhau cảu 2 đề tài nghiên cứu - Tác giả chính",
-            "en":"Topic: \"Software for managing and evaluating similarities between two research topics.\" - Principal investigator"
+            "vn":"Đề tài: Quản lý và đánh giá sự giống nhau cảu 2 đề tài nghiên cứu - Tác giả chính",
+            "en":"Topic: \"Managing and evaluating similarities between two research topics.\" - Principal investigator"
         },
 
         "6":{
@@ -41,8 +41,8 @@
         },
 
         "29":{
-            "vn":"Vị trí: Lập trình viên. Công việc chính: Xây dựng web theo yêu cầu (js,php), cài đặt các hệ thống (gcp,aws)",
-            "en":"Position: Programmer. Main work: Build websites as required (js, php), install systems (gcp, aws)"
+            "vn":"Vị trí: Lập trình viên. Công việc chính: Xây dựng web theo yêu cầu (js,php), cài đặt các hệ thống (gcp,aws), tạo APP (Android S - JAVA)",
+            "en":"Position: Programmer. Main work: Build websites as required (js, php), install systems (gcp, aws), Android Studio - JAVA"
         },
 
         "8":{
@@ -66,18 +66,18 @@
         },
 
         "12":{
-            "vn":"Web Quản Lý Công Việc",
-            "en":"Work management website"
+            "vn":"APP ChiNote",
+            "en":"APP ChiNote"
         },
 
         "13":{
-            "vn":"Front-end xây dựng bằng Angular v17, Back-end xây dựng bằng C#, CSDL quản lý trên Postgresql",
-            "en":"Front-end built with Angular v17, Back-end built with C#, database management on Postgresql"
+            "vn":"Một sản phẩm trong quá trình tự học tập - FLUTTER",
+            "en":"A product in the process of self-learning - FLUTTER"
         },
 
         "14":{
-            "vn":"Kong Gateway và Docker để triển khai api và đóng gói sản phẩm.",
-            "en":"Kong Gateway and Docker for API deployment and product packaging"
+            "vn":"Một app offline ghi lại các chi tiêu / các kế hoạch tiết kiệm của bạn. Báo cáo thống kế để có cái nhìn trực quan.",
+            "en":"An offline app that records your expenses / savings plans. Statistical reports for a visual view."
         },
 
         "15":{
@@ -96,28 +96,28 @@
         },
 
         "18":{
-            "vn":"Trang web hiển thị thông tin 1 bài viết từ cơ sở dữ liệu. Nó tương tự như các trang web tin tức khác. Cho phép soạn thảo bài trên web, phân quyền quản lý các nội dung.",
-            "en":"The website displays information about 1 article from the database. It is similar to other news websites. Allows editing articles on the web, decentralizing content management."
+            "vn":"Nó tương tự như các trang web tin tức khác. Cho phép soạn thảo bài trên web, phân quyền quản lý các nội dung.(GitHub)",
+            "en":"It is similar to other news websites. Allows editing articles on the web, decentralizing content management.(GitHub)"
         },
 
         "19":{
-            "vn":"Ứng dụng bán giày (Android java)",
-            "en":"Shoe selling application (Android java)"
+            "vn":"Web Quản Lý Công Việc (Angular)",
+            "en":"Work Management Web (Angular)"
         },
 
         "20":{
-            "vn":"Ứng dụng chạy trên di động hệ điều hành android.",
-            "en":"Application runs on the Android operating system."
+            "vn":"Angular v17 + C# + Postgresql, Kong Gateway và Docker để triển khai api(GitHub)",
+            "en":"Angular v17 + C# + Postgresql, Kong Gateway and Docker for api deployment(GitHub)"
         },
 
         "21":{
-            "vn":"Ứng dụng quản lý và đánh giá độ trùng lặp giữa các ĐTKH (C#)",
-            "en":"Application to manage and evaluate overlap between research topics (C#)"
+            "vn":"App Điểm danh (Flutter)",
+            "en":"Attendance App (Flutter)"
         },
 
         "22":{
-            "vn":"Giúp cho việc tìm kiếm và đằng ký các ĐTKH nhanh gọn và đỡ trùng lặp hơn",
-            "en":"Helps search and register topics faster and less duplicated"
+            "vn":"Một app nhỏ để bạn ghi lại lịch chấm công / thông báo nhắc nhở / báo cáo-thống kê.(GitHub)",
+            "en":"A small app for you to record attendance / reminders / reports-statistics.(GitHub)"
         }
         ,
 
@@ -144,6 +144,14 @@
         "27":{
             "vn":"Hiểu liền",
             "en":"Sure"
+        },
+        "30":{
+            "vn":"Nghiên cứu, học tập các công nghệ mới - FLUTTER, ANGULAR, ERPNEXT-FRAPPE",
+            "en":"Research and learn new technologies - FLUTTER, ANGULAR, ERPNEXT-FRAPPE"
+        },
+        "32":{
+            "vn":"Hey - còn rất nhiều dự án khác trong (GitHub) Hãy ghé thăm nhé",
+            "en":"Hey - there are many more projects in (GitHub) Please visit"
         }
     }
 }

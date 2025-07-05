@@ -10,7 +10,7 @@
     text-decoration: none;
 }
 p{
-    font-size: 14px;
+    font-size: Clamp(11px, 2vw, 14px);
 }
 :root{
     --bg-color: #081b29;
@@ -39,7 +39,7 @@ body{
 .wrapper{
     position: relative;
     width: 66rem;
-    height: 45rem;
+    height: 50rem;
     padding: 2rem;
     margin-top: 30px;
     margin-bottom: 15px;
@@ -203,6 +203,7 @@ body{
     font-weight: 500;
     margin: 0 1rem;
     transition: .5s;
+    text-align: center;
 }
 .btn:hover{
     background: var(--main-color);
@@ -255,7 +256,8 @@ body{
 }
 .title{
     text-align: center;
-    margin-bottom: 1.2rem;
+    margin-bottom: 1rem;
+    font-size: clamp(18px, 5vw, 30px);
 }
 .workeduc-content .year{
     color: var(--main-color);

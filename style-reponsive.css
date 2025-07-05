@@ -21,10 +21,10 @@
     }
 
     .workeduc-box .workeduc-content h3{
-        font-size: 1.1rem;
+        font-size: 0.8rem;
     }
     .workeduc-box .workeduc-content p{
-        font-size: .85rem;
+        font-size: .65rem;
     }
 
     .skills-box{
@@ -109,6 +109,10 @@
     }
     .book-page .page-back{
         position: absolute;
+    }
+
+    .number-page-no-bottom{
+        bottom: 0;
     }
 }
 @media (max-width:390px) {

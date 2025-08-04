@@ -6,13 +6,13 @@
         },
 
         "2":{
-            "vn":"Tham gia nghiên cứu khoa học sinh viên",
-            "en": "Undergraduate research team member"
+            "vn":"THỰC TẬP SINH: FPT software",
+            "en": "INTERN: FPT software"
         },
 
         "3":{
-            "vn":"Đề tài: xây dựng một trò chơi bằng c++",
-            "en":"Topic: \"Developing a game using C++.\""
+            "vn":"TTS mảng phát triển phần mềm. Tham gia quá phát triển 1 phầm mềm. Kiểm thử tác vụ, chạy và đánh giá thực tế",
+            "en":"Intern software development. Participate in the development of a software. Test tasks, run and evaluate in practice"
         },
 
         "4":{
@@ -66,28 +66,28 @@
         },
 
         "12":{
+            "vn":"App nhật ký cảm xúc & công việc",
+            "en":"APP Mood Journal"
+        },
+
+        "13":{
+            "vn":"Ứng dụng FLUTTER",
+            "en":"App FLUTTER"
+        },
+
+        "14":{
+            "vn":"Lưu trữ cảm xúc trong ngày, các trang nhật ký viết tay, 1 bức ảnh, vidoe, âm thanh đẹp nhất. Check công việc. Giao diện thân thiện bắt mắt.",
+            "en":"Save your daily feelings, handwritten diary pages, 1 photo, video, best sound. Check work. Friendly and eye-catching interface."
+        },
+
+        "15":{
             "vn":"APP ChiNote",
             "en":"APP ChiNote"
         },
 
-        "13":{
-            "vn":"Một sản phẩm trong quá trình tự học tập - FLUTTER",
-            "en":"A product in the process of self-learning - FLUTTER"
-        },
-
-        "14":{
-            "vn":"Một app offline ghi lại các chi tiêu / các kế hoạch tiết kiệm của bạn. Báo cáo thống kế để có cái nhìn trực quan.",
-            "en":"An offline app that records your expenses / savings plans. Statistical reports for a visual view."
-        },
-
-        "15":{
-            "vn":"Web countdown tết 2024 (js)",
-            "en":"2024 countdown website (js)"
-        },
-
         "16":{
-            "vn":"Trang web countdown tết với các hiệu ứng pháo hoa, mưa lì xi và dữ liệu khi mở 1 lì xì.",
-            "en":"Countdown website with fireworks effects, lucky money rain and more...<a href=\"https://youtube.com/live/uk97X_wwTwU?feature=share\" style=\"text-decoration: underline; font-weight: 600;color:black;\">Click video</a>"
+            "vn":"Ghi lại các chi tiêu / các kế hoạch tiết kiệm của bạn. Báo cáo thống kế",
+            "en":"Records your expenses / savings plans. Statistical reports for a visual view.</a>"
         },
 
         "17":{
@@ -154,8 +154,8 @@
             "en":"Hey - there are many more projects in (GitHub) Please visit"
         },
         "33":{
-            "vn":"Tìm kiếm việc làm (7/2025)",
-            "en":"Search for jobs (7/2025)"
+            "vn":"Tìm kiếm việc làm (8/2025)",
+            "en":"Search for jobs (8/2025)"
         }
     }
 }

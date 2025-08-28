@@ -66,8 +66,8 @@
         },
 
         "12":{
-            "vn":"App nhật ký cảm xúc & công việc",
-            "en":"APP Mood Journal"
+            "vn":"APP: công cụ tiện ích",
+            "en":"TOOL APP"
         },
 
         "13":{
@@ -76,28 +76,28 @@
         },
 
         "14":{
-            "vn":"Lưu trữ cảm xúc trong ngày, các trang nhật ký viết tay, 1 bức ảnh, vidoe, âm thanh đẹp nhất. Check công việc. Giao diện thân thiện bắt mắt.",
-            "en":"Save your daily feelings, handwritten diary pages, 1 photo, video, best sound. Check work. Friendly and eye-catching interface."
+            "vn":"Tất cả các tính năng thông dụng thường ngày trong 1 app. Đổi giá tiền, đơn vị, ngẫu nhiên, quét qr-mã vạch, và nhiểu hơn ...(GitHub)",
+            "en":"All the common everyday features in 1 app. Convert currency, units, random, scan qr-barcode, and more...(GitHub)"
         },
 
         "15":{
-            "vn":"APP ChiNote",
-            "en":"APP ChiNote"
+            "vn":"APP ChiNote (FLUTTER)",
+            "en":"APP ChiNote (FLUTTER)"
         },
 
         "16":{
-            "vn":"Ghi lại các chi tiêu / các kế hoạch tiết kiệm của bạn. Báo cáo thống kế",
-            "en":"Records your expenses / savings plans. Statistical reports for a visual view.</a>"
+            "vn":"Ghi lại các chi tiêu / các kế hoạch tiết kiệm của bạn. Báo cáo thống kế.(GitHub)",
+            "en":"Records your expenses / savings plans. Statistical reports for a visual view.(GitHub)</a>"
         },
 
         "17":{
-            "vn":"Web tin tức (full php)",
-            "en":"News website (full php)"
+            "vn":"APP NHẬT KÝ (FLUTTER)",
+            "en":"APP Mood Journal (FLUTTER)"
         },
 
         "18":{
-            "vn":"Nó tương tự như các trang web tin tức khác. Cho phép soạn thảo bài trên web, phân quyền quản lý các nội dung.(GitHub)",
-            "en":"It is similar to other news websites. Allows editing articles on the web, decentralizing content management.(GitHub)"
+            "vn":"Lưu trữ nhật ký, cảm xúc, ảnh, video, và âm thanh trái tim và Kiểm tra công việc của mỗi ngày.(GitHub)",
+            "en":"Store diary, emotions, photos, videos, and heart sounds and Check each day's work(GitHub)"
         },
 
         "19":{
@@ -111,8 +111,8 @@
         },
 
         "21":{
-            "vn":"App Điểm danh (Flutter)",
-            "en":"Attendance App (Flutter)"
+            "vn":"App Điểm danh (FLUTTER)",
+            "en":"Attendance App (FLUTTER)"
         },
 
         "22":{
@@ -150,8 +150,8 @@
             "en":"Research and learn new technologies - FLUTTER, ANGULAR, ERPNEXT-FRAPPE"
         },
         "32":{
-            "vn":"Hey - còn rất nhiều dự án khác trong (GitHub) Hãy ghé thăm nhé",
-            "en":"Hey - there are many more projects in (GitHub) Please visit"
+            "vn":"Hey - còn rất nhiều dự án khác(web/app) trong (GitHub) Hãy ghé thăm nhé",
+            "en":"Hey - there are many more projects(web/app) in (GitHub) Please visit"
         },
         "33":{
             "vn":"Tìm kiếm việc làm (8/2025)",

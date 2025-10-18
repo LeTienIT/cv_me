@@ -1,7 +1,7 @@
 {
     "translation":{
         "1":{
-            "vn":"Chào, tôi là Tiến, một lập trình viên. Tôi yêu thích các giao diện bắt mắt và các thuật toán logic. Tôi thích những điều mới mẻ và luôn tìm kiếm chúng trong cả công việc lẫn cuộc sống. Lập trình với tôi là sở thích và cũng là công việc. Sở thích tạo niềm vui và công việc cần trách nhiệm",
+            "vn":"Hello, tôi là Tiến, một lập trình viên. Tôi yêu thích các giao diện bắt mắt và các thuật toán logic. Tôi thích những điều mới mẻ và luôn tìm kiếm chúng trong cả công việc lẫn cuộc sống. Lập trình với tôi là sở thích và cũng là công việc. Sở thích tạo niềm vui và công việc cần trách nhiệm",
             "en":"Hello, i'm Tien, a programmer. I love the eye-catching interfaces and logical algorithms. I like new things and always look for them in both work and life. Programming for me is a hobby and also a job. Hobbies create joy and work requires responsibility."
         },
 
@@ -76,8 +76,8 @@
         },
 
         "14":{
-            "vn":"Tất cả các tính năng thông dụng thường ngày trong 1 app. Đổi giá tiền, đơn vị, ngẫu nhiên, quét qr-mã vạch, và nhiểu hơn ...(GitHub)",
-            "en":"All the common everyday features in 1 app. Convert currency, units, random, scan qr-barcode, and more...(GitHub)"
+            "vn":"Tất cả các tính năng thông dụng thường ngày trong 1 app. Đổi giá tiền, đơn vị, ngẫu nhiên, quét qr-mã vạch, và nhiểu hơn ... MVVM, Riverpod",
+            "en":"All the common everyday features in 1 app. Convert currency, units, random, scan qr-barcode, and more... MVVM, Riverpod"
         },
 
         "15":{
@@ -86,8 +86,8 @@
         },
 
         "16":{
-            "vn":"Ghi lại các chi tiêu / các kế hoạch tiết kiệm của bạn. Báo cáo thống kế.(GitHub)",
-            "en":"Records your expenses / savings plans. Statistical reports for a visual view.(GitHub)</a>"
+            "vn":"Ghi lại các chi tiêu / các kế hoạch tiết kiệm của bạn. Báo cáo thống kế, MVVM, Riverpod.(Click)",
+            "en":"Records your expenses / savings plans. Statistical reports for a visual view, MVVM, Riverpod.(Click)</a>"
         },
 
         "17":{
@@ -96,28 +96,28 @@
         },
 
         "18":{
-            "vn":"Lưu trữ nhật ký, cảm xúc, ảnh, video, và âm thanh trái tim và Kiểm tra công việc của mỗi ngày.(GitHub)",
-            "en":"Store diary, emotions, photos, videos, and heart sounds and Check each day's work(GitHub)"
+            "vn":"Lưu trữ nhật ký, cảm xúc, ảnh, video, và âm thanh trái tim và Kiểm tra công việc của mỗi ngày, MVVM, Riverpod. (Click)",
+            "en":"Store diary, emotions, photos, videos, and heart sounds and Check each day's work, MVVM, Riverpod.(Click)"
         },
 
         "19":{
-            "vn":"Web Quản Lý Công Việc (Angular)",
-            "en":"Work Management Web (Angular)"
+            "vn":"App thanh toán điện tử (FLUTTER)",
+            "en":"App COMMERCIAL PAYMENTS (FLUTTER)"
         },
 
         "20":{
-            "vn":"Angular v17 + C# + Postgresql, Kong Gateway và Docker để triển khai api(GitHub)",
-            "en":"Angular v17 + C# + Postgresql, Kong Gateway and Docker for api deployment(GitHub)"
+            "vn":"Sử dụng API Webview VNPAY để thực hiện giao dịch, kết hợp ui, firebase, nodeJS, Clean architecture, BLOC.(Click)",
+            "en":"Use VNPAY Webview API to make transactions, combine ui, firebase, nodeJS, Clean architecture, BLOC.(Click)"
         },
 
         "21":{
-            "vn":"App Điểm danh (FLUTTER)",
-            "en":"Attendance App (FLUTTER)"
+            "vn":"App ống kính ngôn ngữ (FLUTTER)",
+            "en":"App CAMERA LEARN (FLUTTER)"
         },
 
         "22":{
-            "vn":"Một app nhỏ để bạn ghi lại lịch chấm công / thông báo nhắc nhở / báo cáo-thống kê.(GitHub)",
-            "en":"A small app for you to record attendance / reminders / reports-statistics.(GitHub)"
+            "vn":"Sử dụng camera kết hợp AI để nhận diện -> dịch. Kết hợp lưu trữ và bài luyện tập, Clean architecture, BLOC. (Click)",
+            "en":"Using camera combined with AI to recognize -> translate. Combining storage and practice, Clean architecture, BLOC. (Click)"
         }
         ,
 
@@ -156,6 +156,10 @@
         "33":{
             "vn":"Tìm kiếm việc làm (8/2025)",
             "en":"Search for jobs (8/2025)"
+        },
+        "34":{
+            "vn":"Danh hiệu: Học bổng khuyến khích học tập, Sinh viên 5 tốt, giải nhất NCKH cấp trường.",
+            "en":"Titles: Scholarship to encourage learning, 5 Good Students, First Prize in School-level Scientific Research."
         }
     }
 }

@@ -15,14 +15,13 @@
             "en":"Intern software development. Participate in the development of a software. Test tasks, run and evaluate in practice"
         },
 
-        "4":{
-            "vn": "Chủ nhiệm đề tài nghiên cứu khoa học",
-            "en": "Student research project team leader"
+        "4": {
+            "vn": "Lập trình viên tại: Công Ty CP ESBT",
+            "en": "Software Developer at ESBT Company"
         },
-
-        "5":{
-            "vn":"Đề tài: Quản lý và đánh giá sự giống nhau cảu 2 đề tài nghiên cứu - Tác giả chính",
-            "en":"Topic: \"Managing and evaluating similarities between two research topics.\" - Principal investigator"
+        "5": {
+            "vn": "Sửa lỗi, phát triển tính năng, tối ưu giao diện và API, tham gia phát triển back-end cho các ứng dụng: quản lý bán hàng Salework, quản lý dữ liệu và giao tiếp Inforact.",
+            "en": "Fix bugs, develop new features, optimize UI and APIs, and contribute to backend development for applications such as Salework (sales management) and Inforact (data management and communication)."
         },
 
         "6":{
@@ -36,13 +35,13 @@
         },
 
         "28":{
-            "vn":"Làm việc tại cty vnconference",
-            "en":"Working at vnconference company"
+            "vn":"Lập trình viên tại: Công Ty CP VNC",
+            "en":"Software Developer at VNC Company"
         },
 
         "29":{
-            "vn":"Vị trí: Lập trình viên. Công việc chính: Xây dựng web theo yêu cầu (js,php), cài đặt các hệ thống (gcp,aws), tạo APP (Android S - JAVA)",
-            "en":"Position: Programmer. Main work: Build websites as required (js, php), install systems (gcp, aws), Android Studio - JAVA"
+            "vn":"Xây dựng web theo yêu cầu (js,php), cài đặt các hệ thống (gcp,aws), phát triển mobile",
+            "en":"Build websites as required (js, php), install systems (gcp, aws), app mobile"
         },
 
         "8":{
@@ -64,22 +63,6 @@
             "vn":"Xếp loại học lực tích lũy: Xuất sắc.",
             "en":"Cumulative academic ranking: Excellent."
         },
-
-        "12":{
-            "vn":"APP: công cụ tiện ích",
-            "en":"TOOL APP"
-        },
-
-        "13":{
-            "vn":"Ứng dụng FLUTTER",
-            "en":"App FLUTTER"
-        },
-
-        "14":{
-            "vn":"Tất cả các tính năng thông dụng thường ngày trong 1 app. Đổi giá tiền, đơn vị, ngẫu nhiên, quét qr-mã vạch, và nhiểu hơn ... MVVM, Riverpod",
-            "en":"All the common everyday features in 1 app. Convert currency, units, random, scan qr-barcode, and more... MVVM, Riverpod"
-        },
-
         "15":{
             "vn":"APP ChiNote (FLUTTER)",
             "en":"APP ChiNote (FLUTTER)"
@@ -100,14 +83,13 @@
             "en":"Store diary, emotions, photos, videos, and heart sounds and Check each day's work, MVVM, Riverpod.(Click)"
         },
 
-        "19":{
-            "vn":"App thanh toán điện tử (FLUTTER)",
-            "en":"App COMMERCIAL PAYMENTS (FLUTTER)"
+        "19": {
+            "vn": "App Tool (Flutter)",
+            "en": "Utility App (Flutter)"
         },
-
-        "20":{
-            "vn":"Sử dụng API Webview VNPAY để thực hiện giao dịch, kết hợp ui, firebase, nodeJS, Clean architecture, BLOC.(Click)",
-            "en":"Use VNPAY Webview API to make transactions, combine ui, firebase, nodeJS, Clean architecture, BLOC.(Click)"
+        "20": {
+            "vn": "Ứng dụng tích hợp nhiều công cụ tiện ích như chuyển đổi đơn vị, tiền tệ, quét QR/mã vạch, random, đếm số và các chức năng hỗ trợ tính toán.",
+            "en": "A multifunctional utility app integrating tools such as unit and currency conversion, QR/barcode scanning, random selection, counting, and basic calculation features."
         },
 
         "21":{
@@ -140,26 +122,85 @@
             "vn":"Hãy ấn vào <img src=\"./root/c2.png\" alt=\"\"> để xem các nội dung phía sau của page đó. Hi vọng bạn không bỏ lỡ nó.",
             "en":"Click <img src=\"./root/c2.png\" alt=\"\"> to see the content behind that page. Hope you don't miss it."
         },
-
+ 
         "27":{
             "vn":"Hiểu liền",
             "en":"Sure"
         },
         "30":{
-            "vn":"Nghiên cứu, học tập các công nghệ mới - FLUTTER, ANGULAR, ERPNEXT-FRAPPE",
-            "en":"Research and learn new technologies - FLUTTER, ANGULAR, ERPNEXT-FRAPPE"
+            "vn":"FLUTTER, PHP, ERPNEXT-FRAPPE",
+            "en":"FLUTTER, PHP, ERPNEXT-FRAPPE"
         },
         "32":{
             "vn":"Hey - còn rất nhiều dự án khác(web/app) trong (GitHub) Hãy ghé thăm nhé",
             "en":"Hey - there are many more projects(web/app) in (GitHub) Please visit"
         },
         "33":{
-            "vn":"Tìm kiếm việc làm (8/2025)",
-            "en":"Search for jobs (8/2025)"
+            "vn":"Tìm kiếm việc làm",
+            "en":"Search for jobs"
         },
         "34":{
             "vn":"Danh hiệu: Học bổng khuyến khích học tập, Sinh viên 5 tốt, giải nhất NCKH cấp trường.",
             "en":"Titles: Scholarship to encourage learning, 5 Good Students, First Prize in School-level Scientific Research."
+        },
+        "35": {
+            "vn": "Salework mobile (Flutter)",
+            "en": "Salework Mobile (Flutter)"
+        },
+        "36": {
+            "vn": "Phát triển tính năng mới, tham gia thiết kế cơ sở dữ liệu, xây dựng API backend và cập nhật các thay đổi theo hệ thống backend.",
+            "en": "Developed new features, contributed to database design, built backend APIs, and updated the mobile app based on backend changes."
+        },
+
+        "37": {
+            "vn": "Inforact mobile (Flutter)",
+            "en": "Inforact Mobile (Flutter)"
+        },
+        "38": {
+            "vn": "Cải thiện giao diện chat, tối ưu cơ sở dữ liệu, API và socket, triển khai xử lý dữ liệu.",
+            "en": "Enhanced chat UI, optimized database, APIs, and socket connections, and implemented data processing features."
+        },
+
+        "39": {
+            "vn": "ERPNext mobile (Flutter)",
+            "en": "ERPNext Mobile (Flutter)"
+        },
+        "40": {
+            "vn": "Triển khai các tính năng cơ bản của ERPNext lên mobile như đơn từ, chấm công, lịch,...",
+            "en": "Implemented core ERPNext features on mobile such as requests, attendance, scheduling, and more."
+        },
+
+        "41": {
+            "vn": "App thanh toán điện tử (Flutter)",
+            "en": "E-payment Application (Flutter)"
+        },
+        "42": {
+            "vn": "Tích hợp VNPAY để xử lý giao dịch, kết hợp UI, Firebase, Node.js và xử lý lỗi hệ thống.",
+            "en": "Integrated VNPAY for payment processing, combined with UI development, Firebase, Node.js, and system error handling."
+        },
+        "43": {
+            "vn": "Một vài dự án cá nhân",
+            "en": "Some Personal Projects"
+        },
+        "44": {
+            "vn": "Các dự án",
+            "en": "Projects"
+        },
+        "45": {
+            "vn": "Các kỹ năng",
+            "en": "My Skills"
+        },
+        "46": {
+            "vn": "Kinh nghiệm",
+            "en": "Work Experience"
+        },
+        "47": {
+            "vn": "Học vấn",
+            "en": "Education"
+        },
+        "48": {
+            "vn": "Lập trình viên",
+            "en": "Developer"
         }
     }
 }

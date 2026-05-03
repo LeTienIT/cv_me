@@ -3,7 +3,7 @@
     .wrapper{
         width: 55rem;
     }
-    .profile-page img{
+    .profile-page .avatar img{
         max-width: 160px;
     }
     .profile-page h1{

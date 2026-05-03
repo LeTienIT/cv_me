@@ -140,54 +140,107 @@ body{
     box-shadow: 0 0 .6rem rgba(0,0,0,.1);
     padding: 2rem;
 }
-.profile-page{
+.profile-page {
+    width: 100%;
+    text-align: center;
+}
+
+/* COVER */
+.cover_avatar {
+    width: 100%;
+    height: 220px;
+    overflow: hidden;
+    position: relative;
+}
+.cover_avatar img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+/* AVATAR */
+.avatar {
+    position: relative;
+    margin-top: -80px; /* kéo lên để đè lên cover */
+    display: flex;
+    justify-content: center;
+}
+.avatar img {
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+    border: 5px solid white;
+    object-fit: cover;
+}
+
+/* INFO */
+.profile-info {
+    padding: 10px 20px;
+}
+
+.profile-info h1 {
+    font-size: 2.4rem;
+}
+.profile-info h3 {
+    color: var(--main-color);
+}
+
+/* STATUS */
+.status {
     display: flex;
     justify-content: center;
     align-items: center;
-    flex-direction: column;
+    font-size: 14px;
+    color: #28a745;
 }
-.profile-page img{
-    max-width: 131px;
+.status .dot {
+    width: 10px;
+    height: 10px;
+    background-color: #28a745;
     border-radius: 50%;
-    border: .25rem solid var(--main-color);
-    margin-bottom: .8rem;
-    object-fit: cover;
+    margin-right: 6px;
 }
-.profile-page h1{
-    font-size: 2.8rem;
-    line-height: 1;
-    text-align: center;
+
+/* SOCIAL */
+.social-media {
+    margin: 10px 0;
 }
-.profile-page h3{
-    font-size: 1.6rem;
-    color: var(--main-color);
-}
-.profile-page .social-media{
-    margin: .6rem 0 .8rem;
-}
-.profile-page .social-media a{
+.social-media a {
     display: inline-flex;
     justify-content: center;
     align-items: center;
-    background: transparent;
     width: 2.5rem;
     height: 2.5rem;
     border: var(--border);
     border-radius: 50%;
     color: var(--main-color);
-    font-size: 1.2rem;
-    margin: 0 .2rem;
-    transition: .5s;
+    margin: 0 5px;
+    transition: .3s;
 }
-.profile-page .social-media a:hover{
-    background-color: var(--main-color);
+.social-media a:hover {
+    background: var(--main-color);
     color: white;
 }
-.profile-page p{
-    text-align: justify;
-}
-.profile-page .btn-box{
-    margin-top: 1.2rem;
+
+/* MOBILE */
+@media (max-width: 768px) {
+    .cover_avatar {
+        height: 160px;
+        width: 100%;
+    }
+
+    .avatar {
+        margin-top: -60px;
+    }
+
+    .avatar img {
+        width: 120px;
+        height: 120px;
+    }
+
+    .profile-info h1 {
+        font-size: 1.8rem;
+    }
 }
 .btn{
     display: inline-flex;
